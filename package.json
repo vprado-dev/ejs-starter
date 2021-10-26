@@ -1,8 +1,8 @@
 {
-  "name": "rest-api-starter",
+  "name": "ejs-starter",
   "version": "0.0.0",
   "main": "index.js",
-  "author": "Eliseu Videira <eliseuvideira1@gmail.com>",
+  "author": "Vinicius Prado <vinicavagna@gmail.com>",
   "license": "MIT",
   "engines": {
     "node": ">=14"
